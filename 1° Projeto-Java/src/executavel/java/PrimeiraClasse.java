@@ -5,6 +5,6 @@ public class PrimeiraClasse {
 		System.out.println("1° Projeto no GitHub");
 		System.out.println("1° Alteração Projeto no GitHub");		
 		/*Teste*/
-		System.out.println("Outra Alteração");
+		System.out.println("Outra Alteração x1");
 	}
 }
