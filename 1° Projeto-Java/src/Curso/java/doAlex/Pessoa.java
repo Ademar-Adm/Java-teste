@@ -2,4 +2,26 @@ package Curso.java.doAlex;
 
 public class Pessoa {
 
+	/*Criando a classe pessoa*/
+	private String nome;
+	
+	private String Sobrenome;
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public String getSobrenome() {
+		return Sobrenome;
+	}
+
+	public void setSobrenome(String sobrenome) {
+		Sobrenome = sobrenome;
+	}
+	
+	
 }
